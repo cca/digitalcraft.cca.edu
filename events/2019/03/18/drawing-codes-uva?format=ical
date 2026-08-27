@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5c5e108615fcc09ae5ff29d9@squarespace.com
+DTSTAMP:20210614T201253Z
+DTSTART:20190318T190000Z
+DTEND:20190422T230000Z
+SUMMARY:Drawing Codes: Experimental Protocols of Architectural Representati
+ on\, Vol. II
+GEO:38.038796;-78.503804
+LOCATION:Elmaleh Gallery\, Campbell Hall\, 110 Bayly Drive\, Charlottesvill
+ e\, VA\, 22903\, United States
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5dfb8bda94039d2f6dabdef4@squarespace.com
+DTSTAMP:20210810T182753Z
+DTSTART:20200203T200000Z
+DTEND:20200314T010000Z
+SUMMARY:Drawing Codes: Experimental Protocols of Architectural Representati
+ on\, Vol. II
+GEO:47.654926;-122.3127
+LOCATION:Gould Gallery\, 3950 University Way\, Seattle\, WA\, 98105\, Unite
+ d States
+END:VEVENT
+END:VCALENDAR

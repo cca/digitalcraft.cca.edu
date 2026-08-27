@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5a984c3c08522926f7085d6d@squarespace.com
+DTSTAMP:20181224T184309Z
+DTSTART:20180307T020000Z
+DTEND:20180329T000000Z
+SUMMARY:Drawing Codes: Experimental Protocols of Architectural Representati
+ on
+GEO:42.289974;-83.717288
+LOCATION:Taubman College Gallery\, 2000 Bonisteel Boulevard\, Ann Arbor\, M
+ I\, 48105\, United States
+END:VEVENT
+END:VCALENDAR

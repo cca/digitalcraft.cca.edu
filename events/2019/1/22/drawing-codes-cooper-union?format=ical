@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5c2128bd4fa51a4c897ba1b6@squarespace.com
+DTSTAMP:20190208T232806Z
+DTSTART:20190122T200000Z
+DTEND:20190224T000000Z
+SUMMARY:Drawing Codes: Experimental Protocols of Architectural Representati
+ on\, Vol. II
+GEO:40.729408;-73.990487
+LOCATION:Arthur A. Houghton\, Jr. Gallery\, 7 East Seventh Street\, 2nd Flo
+ or\, New York\, NY 10003\, United States
+END:VEVENT
+END:VCALENDAR

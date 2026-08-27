@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5bb3cb3fe2c4830b5e2c199b@squarespace.com
+DTSTAMP:20181002T195212Z
+DTSTART:20181005T013000Z
+DTEND:20181005T023000Z
+SUMMARY:Fologram with Gwyllim Jahn and  Nick van den Berg
+GEO:37.767376;-122.399486
+LOCATION:California College of the Arts\, 1111 8th Street\, San Francisco\, 
+ CA\, USA
+END:VEVENT
+END:VCALENDAR

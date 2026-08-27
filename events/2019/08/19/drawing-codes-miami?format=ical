@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5d4d878bd5115f0001d7c58d@squarespace.com
+DTSTAMP:20191219T144026Z
+DTSTART:20190819T190000Z
+DTEND:20191010T000000Z
+SUMMARY: Drawing Codes: Experimental Protocols of Architectural Representat
+ ion\, Vol. II
+GEO:25.716908;-80.278875
+LOCATION:Korach Gallery\, Jorge M. Perez Architecture Center\, 1215 Theo Di
+ ckinson Drive\, Coral Gables\, FL\, 33146\, United States
+END:VEVENT
+END:VCALENDAR

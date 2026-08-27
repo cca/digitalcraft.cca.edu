@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:6112c529ebdca90aa2454421@squarespace.com
+DTSTAMP:20210826T164900Z
+DTSTART:20210901T190000Z
+DTEND:20210925T000000Z
+SUMMARY:Drawing Codes: Experimental Protocols of Architectural Representati
+ on\, Vol. II
+GEO:37.766769;-122.397695
+LOCATION:Hubbell Street Galleries\, 161 Hubbell Street\, San Francisco\, CA
+ \, United States
+END:VEVENT
+END:VCALENDAR
